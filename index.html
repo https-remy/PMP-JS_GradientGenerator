@@ -3,10 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Couleurs fun JavaScript</title>
+    <title>Gradient Generator</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+	<div class="container">
+		<div class="input-group">
+			<label for="color1">#EE82EE</label>
+			<input type="color" id="color1">
+		</div>
+		<div class="input-group">
+			<label for="color2">#00D1FF</label>
+			<input type="color" id="color2">
+		</div>
+		<div class="range-group">
+			<label for="deg">
+				<span>Degrees :</span>
+				<span class="degrees-value">90°</span>
+			</label>
+			<input type="range" id="deg" min="0" max="360" value="90" class="input-range">
+		</div>
+		<div class="btns-container">
+			<button class="copy-btn" type="button">
+				<span>Copy</span>
+			</button>
+			<button class="random-btn" type="button">
+				<span>Randomize</span>
+			</button>
+		</div>
+	</div>
 
     <script src="app.js"></script>
 </body>

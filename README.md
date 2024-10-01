@@ -23,6 +23,7 @@ This gradient generator allows users to experiment with different color combinat
 - **Direction controls** for linear gradients.
 - **Real-time preview** of the gradient.
 - **Copy-to-clipboard** functionality for generated CSS.
+- **Randomize** to have a random gradient.
 
 ## Installation
 
@@ -71,7 +72,7 @@ gradient-generator/
 
 ## Customization
 
-To modify the gradient options or add new features, edit the JavaScript in `js/script.js` and adjust the CSS as needed in `css/style.css`.
+To modify the gradient options or add new features, edit the JavaScript in `script.js` and adjust the CSS as needed in `style.css`.
 
 ## Contributors
 

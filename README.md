@@ -1,6 +1,6 @@
 # Gradient Generator
 
-A simple web-based gradient generator, built using **HTML**, **CSS**, and **JavaScript**. This tool allows users to create custom gradients by selecting colors and adjusting the gradient direction.
+A simple web-based gradient generator, built using **HTML**, **CSS**, and **JavaScript**. This tool allows users to create custom gradients by selecting colors and adjusting the gradient direction. You can visit the site [here](https://remyshift.github.io/PMP-JS_GradientGenerator/)
 
 ## Table of Contents
 
